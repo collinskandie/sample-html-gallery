@@ -1,0 +1,46 @@
+
+header,
+section,
+footer {
+    margin: 0 1.5% 24px 0%;
+    }
+header{
+    float:top;
+    width: 100%;
+    background-color:rgb(247, 111, 134);
+    color: black;
+    text-align:center;
+    
+}
+body{
+    margin: 0px;
+    background-color:antiquewhite;
+    color: black;
+                  
+   
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;            
+}
+.column {
+    float: left;
+    width: 20%;
+    }
+    /* Clear floats after the columns */
+.row:after {
+      content: "";
+      display: table;
+      clear: both;
+      }
+img:hover{
+    width: 150px;        
+    
+}
+.main{
+    position:absolute;
+    margin: 30px;
+    float:inline-block;
+    margin:30px;
+    display: block;
+}
