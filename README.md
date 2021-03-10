@@ -1,2 +1,2 @@
 # sample-html-gallery
-Practice 
+Practice coding
